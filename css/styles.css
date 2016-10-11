@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+}
+
+h2, h3 {
+  color: white;
+}
+
+.jumbotron  {
+  background-image: url("http://cloudmind.info/wp-content/uploads/2015/07/Sunrise-landscape-render-retouches.png");
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.btn {
+  background-color: gold;
+}
